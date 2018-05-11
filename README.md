@@ -1,11 +1,12 @@
 # github_restful-webservices
-Created a RESTful Web service that displays data in JSON format using two get routes :
+Created a RESTful Web service using spring-boot to get routes :
 
 1)/customers
 
 2)/customers/1
 
 3)/customers/2
+
 Steps:
 
 -In the docker terminal, use command "touch Dockerfile" to create the Dockerfile and setup the DockerFile accordingly.
